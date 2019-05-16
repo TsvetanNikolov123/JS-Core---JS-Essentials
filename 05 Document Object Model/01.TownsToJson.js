@@ -8,11 +8,11 @@ function solution(input) {
         towns.push(townObj);
     }
 
-    console.log(JSON.stringify(towns));
+    return JSON.stringify(towns);
 }
 
 
-solution(['| Town | Latitude | Longitude |',
+console.log(solution(['| Town | Latitude | Longitude |',
     '| Sofia | 42.696552 | 23.32601 |',
     '| Beijing | 39.913818 | 116.363625 |']
-);
+));
