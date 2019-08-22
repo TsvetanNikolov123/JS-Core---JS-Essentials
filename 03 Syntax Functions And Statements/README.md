@@ -34,7 +34,7 @@ The **output** should be printed on the console on two lines.
 
 <br/>
 
-#### Solution: <a title="01 String Length" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">01 String Length</a>
+#### Solution: <a title="01 String Length" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">01 String Length</a>
 
 ---
 
@@ -65,7 +65,7 @@ The **output** should be printed on the console.
 
 <br/>
 
-#### Solution: <a title="02 Math Operations" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">02 Math Operations</a>
+#### Solution: <a title="02 Math Operations" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements/02.MathOperations.js">02 Math Operations</a>
 
 ---
 
@@ -91,7 +91,7 @@ The **output** should **return** the **sum**.
 
 <br/>
 
-#### Solution: <a title="03 Sum of Numbers N…M" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">03 Sum of Numbers N…M</a>
+#### Solution: <a title="03 Sum of Numbers N…M" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements/03.SumOfNumbersNToM.js">03 Sum of Numbers N…M</a>
 
 ---
 
@@ -117,7 +117,7 @@ The **output** should be printed to the console.
 
 <br/>
 
-#### Solution: <a title="04 Largest Number" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">04 Largest Number</a>
+#### Solution: <a title="04 Largest Number" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements/04.LargestNumber.js">04 Largest Number</a>
 
 ---
 
@@ -150,7 +150,7 @@ The **output** should be printed on the console.
 
 <br/>
 
-#### Solution: <a title="05 Circle Area" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">05 Circle Area</a>
+#### Solution: <a title="05 Circle Area" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements/05.CircleArea.js">05 Circle Area</a>
 
 ---
 
@@ -187,7 +187,8 @@ of variable size.
 
 <br/>
 
-#### Solution: <a title="06 Square of Stars" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">06 Square of Stars</a>
+#### Solution 1: <a title="06 Square of Stars" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements/06.SquareOfStars.js">06 Square of Stars</a>
+#### Solution 2: <a title="06 Square of Stars" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements/06.01.SquareOfStars.js">06 Square of Stars</a>
 
 ---
 
@@ -218,7 +219,7 @@ The **output** should be returned as a result.
 
 <br/>
 
-#### Solution: <a title="07 Day of Week" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">07 Day of Week</a>
+#### Solution: <a title="07 Day of Week" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements/07.DayOfWeek.js">07 Day of Week</a>
 
 ---
 
@@ -242,7 +243,7 @@ The **output** should be printed on the console.
 
 <br/>
 
-#### Solution: <a title="08 Functional Calculator" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">08 Functional Calculator</a>
+#### Solution: <a title="08 Functional Calculator" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements/08.FunctionalCalculator.js">08 Functional Calculator</a>
 
 ---
 
@@ -272,7 +273,7 @@ operations.
 
 <br/>
 
-#### Solution: <a title="09 Aggregate Elements" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">09 Aggregate Elements</a>
+#### Solution: <a title="09 Aggregate Elements" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements/09.AggregateElements.js">09 Aggregate Elements</a>
 
 ---
 
@@ -302,4 +303,7 @@ The **output** should be a single line containing the converted string.
 
 <br/>
 
-#### Solution: <a title="10 Words Uppercase" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statements">10 \*Words Uppercase</a>
+#### Solution 1: <a title="10 Words Uppercase" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statementsp/10.WordsUppercase.js">10 \*Words Uppercase</a>
+#### Solution 2: <a title="10 Words Uppercase" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/03%20Syntax%20Functions%20And%20Statementsp/p10.01.WordsUppercase.js">10 \*Words Uppercase</a>
+
+---
