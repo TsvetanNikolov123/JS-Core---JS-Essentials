@@ -35,5 +35,26 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 
 ## 04. Exercise: Syntax, Functions and Statements
 
+### Tasks Requirements And Solutions
+<br/>
+
+***<a title="01 Fruits" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0401-fruit">01 Fruits</a>***
+
+***<a title="02 Greatest Common Divisor - GCD" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0402-greatest-common-divisor---gcd">02 Greatest Common Divisor - GCD</a>***
+
+***<a title="03 Same Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0403-same-numbers">03 Same Numbers</a>***
+
+***<a title="04 Time to Walk" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0404-time-to-walk">04 Time to Walk</a>***
+
+***<a title="05 Calorie Object" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0405-calorie-object">05 Calorie Object</a>***
+
+***<a title="06 Road Radar" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0406-road-radar">06 Road Radar</a>***
+
+***<a title="07 Cooking by Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0407-cooking-by-numbers">07 Cooking by Numbers</a>***
+
+***<a title="08 Validity Checker" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0408-validity-checker">08 Validity Checker</a>***
+
+***<a title="09 Coffee Machine" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0409-coffee-machine">09 \*Coffee Machine</a>***
+
 ---
 ---
