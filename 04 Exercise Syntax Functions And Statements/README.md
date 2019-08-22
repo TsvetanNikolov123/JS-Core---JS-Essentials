@@ -38,7 +38,7 @@ The **output** should be printed on the console.
 
 <br/>
 
-#### Solution: <a title="01 Fruit" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">01 Fruit</a>
+#### Solution: <a title="01 Fruit" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/04%20Exercise%20Syntax%20Functions%20And%20Statements/01.Fruit.js">01 Fruit</a>
 
 ---
 
@@ -59,7 +59,7 @@ The **output** should be printed on the console.
 
 <br/>
 
-#### Solution: <a title="02 Greatest Common Divisor - GCD" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">02 Greatest Common Divisor - GCD</a>
+#### Solution: <a title="02 Greatest Common Divisor - GCD" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/04%20Exercise%20Syntax%20Functions%20And%20Statements/02.GreatestCommonDivisor.js">02 Greatest Common Divisor - GCD</a>
 
 ---
 
@@ -83,7 +83,7 @@ The **output** should be printed on the console.
 
 <br/>
 
-#### Solution: <a title="03 Same Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">03 Same Numbers</a>
+#### Solution: <a title="03 Same Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/04%20Exercise%20Syntax%20Functions%20And%20Statements/03.SameNumbers.js">03 Same Numbers</a>
 
 ---
 
@@ -117,7 +117,7 @@ The **output** should be printed on the console.
 
 <br/>
 
-#### Solution: <a title="04 Time to Walk" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">04 Time to Walk</a>
+#### Solution: <a title="04 Time to Walk" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/04%20Exercise%20Syntax%20Functions%20And%20Statements/04.TimeToWalk.js">04 Time to Walk</a>
 
 ---
 
@@ -142,7 +142,7 @@ The **output** should be printed on the console.
 
 <br/>
 
-#### Solution: <a title="05 Calorie Object" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">05 Calorie Object</a>
+#### Solution: <a title="05 Calorie Object" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/04%20Exercise%20Syntax%20Functions%20And%20Statements/05.CalorieObject.js">05 Calorie Object</a>
 
 ---
 
@@ -187,7 +187,7 @@ there isn’t any output.
 
 <br/>
 
-#### Solution: <a title="06 Road Radar" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">06 Road Radar</a>
+#### Solution: <a title="06 Road Radar" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/04%20Exercise%20Syntax%20Functions%20And%20Statements/06.RoadRadar.js">06 Road Radar</a>
 
 ---
 
@@ -231,7 +231,7 @@ The **output** should be printed on the console.
 
 <br/>
 
-#### Solution: <a title="07 Cooking by Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">07 Cooking by Numbersh</a>
+#### Solution: <a title="07 Cooking by Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/04%20Exercise%20Syntax%20Functions%20And%20Statements/07.CookingByNumber.js">07 Cooking by Numbersh</a>
 
 ---
 
@@ -263,7 +263,7 @@ distance is valid, or **"{x1, y1} to {x2, y2} is invalid"** if it is invalid.
 
 <br/>
 
-#### Solution: <a title="08 Validity Checker" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">08 Validity Checker</a>
+#### Solution: <a title="08 Validity Checker" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/04%20Exercise%20Syntax%20Functions%20And%20Statements/08.ValidityChecker.js">08 Validity Checker</a>
 
 ---
 
@@ -334,7 +334,7 @@ All of the numbers should be **formatted to the second decimal point**.
 
 <br/>
 
-#### Solution: <a title="09 Coffee Machine" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/03%20Syntax%20Functions%20And%20Statements/01.StringLenght.js">09 \*Coffee Machine</a>
+#### Solution: <a title="09 Coffee Machine" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/04%20Exercise%20Syntax%20Functions%20And%20Statements/09.CoffeeMachine.js">09 \*Coffee Machine</a>
 
 
 ---
