@@ -42,6 +42,10 @@ input print the object representing it.
 | **Output**                                                                                                                   |
 | [{"Town":"Veliko Turnovo","Latitude":43.0757,"Longitude":25.6172},<br/>{"Town":"Monatevideo","Latitude":34.5,"Longitude":56.11}] |
 
+<br/>
+
+#### Solution: <a title="01 Towns to JSON" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/05%20Document%20Object%20Model/01.TownsToJson.js">01 Towns to JSON</a>
+
 ---
 
 ### 05.02 Sum by Town
@@ -65,6 +69,10 @@ object containing all towns and their total incomes.
 |:--------------------------------:|:------------------------------------------:|
 | Sofia <br/> 20<br/> Varna <br/>3<br/> Sofia<br/> 5<br/> Varna<br/> 4<br/> | {"Sofia":25,"Varna":7} |
 | Sofia<br/> 20<br/> Varna<br/> 3<br/> sofia<br/> 5<br/> varna<br/> 4 | {"Sofia":20,"Varna":3,"sofia":5,"varna":4} |
+
+<br/>
+
+#### Solution: <a title="02 Sum by Town" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/05%20Document%20Object%20Model/02.SumByTown.js">02 Sum by Town</a>
 
 ---
 
@@ -99,6 +107,10 @@ object containing the words.
 | **Output**                                                            |
 | {"JS":3,"devs":2,"use":1,"Node":1,"js":1,"for":2,"server":1,"side":1} |
 
+<br/>
+
+#### Solution: <a title="03 Count Words in a Text" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/05%20Document%20Object%20Model/03.CountWordsInAText.js">03 Count Words in a Text</a>
+
 ---
 
 ### 05.04 Populations in Towns
@@ -123,6 +135,10 @@ As **output**, you must print all the towns, and their population.
 | Sofia \<-\> 1200000 Montana \<-\> 20000 New York \<-\> 10000000 Washington \<-\> 2345000 Las Vegas \<-\> 1000000     | Sofia : 1200000 Montana : 20000 New York : 10000000 Washington : 2345000 Las Vegas : 1000000 |
 | **Input**                                                                                                            | **Output**                                                                                   |
 | Istanbul \<-\> 100000 Honk Kong \<-\> 2100004 Jerusalem \<-\> 2352344 Mexico City \<-\> 23401925 Istanbul \<-\> 1000 | Istanbul : 101000 Honk Kong : 2100004 Jerusalem : 2352344 Mexico City : 23401925             |
+
+<br/>
+
+#### Solution: <a title="04 Populations in Towns" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/05%20Document%20Object%20Model/04.PopulationsInTowns.js">04 Populations in Towns</a>
 
 ---
 
@@ -176,6 +192,10 @@ Java.
 
 <img src="https://user-images.githubusercontent.com/32310938/63638116-c6877d00-c68c-11e9-8858-f98bb3fc5c38.png" alt="alt text" width="400" height="" >
 
+<br/>
+
+#### Solution: <a title="05 Articles List" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/05%20Document%20Object%20Model/05.%20Articles%20List/solution.js">05 Articles List</a>
+
 ---
 
 ### 05.06 Format the Text
@@ -226,6 +246,10 @@ text by '.' Also, every sentence must have at least 1 character.**
 
 <img src="https://user-images.githubusercontent.com/32310938/63638218-0dc23d80-c68e-11e9-8186-bbc7e561e990.png" alt="alt text" width="600" height="">
 
+<br/>
+
+#### Solution: <a title="06 Format the Text" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/05%20Document%20Object%20Model/06.%20Format%20the%20Text/solution.js">06 Format the Text</a>
+
 ---
 
 ### 06.07 Growing Word
@@ -272,6 +296,12 @@ paragraph should change, depending on the **previous color**.
 
 <img src="https://user-images.githubusercontent.com/32310938/63638307-3565d580-c68f-11e9-9932-86e1c3c6e340.png" alt="alt text" width="600" height="">
 
+<br/>
+
+#### Solution: <a title="07 Growing Word" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/05%20Document%20Object%20Model/07.%20Growing%20Word/solution.js">07 Growing Word</a>
+
+---
+
 ### 05.08 Visited Sites
 
 
@@ -291,5 +321,9 @@ link**, the expected
 result must be:
 
 <img src="https://user-images.githubusercontent.com/32310938/63638324-778f1700-c68f-11e9-84c9-adef62a26294.png" alt="alt text" width="800" height="">
+
+<br/>
+
+#### Solution: <a title="08 Visited Sites" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/05%20Document%20Object%20Model/08.%20Visited%20Websites/solution.js">08 Visited Sites</a>
 
 ---
