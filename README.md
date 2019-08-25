@@ -64,7 +64,7 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 ### Tasks Requirements And Solutions
 <br/>
 
-***<a title="01 Towns to JSON" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0501-towns-to-json">01 Towns to JSON</a>***
+***<a title="01 Towns to JSON" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/04%20Exercise%20Syntax%20Functions%20And%20Statements#0401-fruit">01 Towns to JSON</a>***
 
 ***<a title="02 Sum by Town" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/05%20Document%20Object%20Model#0502-sum-by-town">02 Sum by Town</a>***
 
