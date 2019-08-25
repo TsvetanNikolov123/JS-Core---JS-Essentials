@@ -166,3 +166,35 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 
 ---
 ---
+
+## 09. Lab: Strings and Regular Expressions
+
+### Tasks Requirements And Solutions
+<br/>
+
+***<a title="01 Pascal or Camel Case" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/09%20Strings%20And%20Regexp#0901-pascal-or-camel-case">01 Pascal or Camel Case</a>***
+
+***<a title="02 Find ASCII Equivalent" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/09%20Strings%20And%20Regexp#0902-find-ascii-equivalent">02 Find ASCII Equivalent</a>***
+
+***<a title="03 Split String Equally" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/09%20Strings%20And%20Regexp#0903-split-string-equally">03 Split String Equally</a>***
+
+***<a title="04 Replace a Certain Word" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/09%20Strings%20And%20Regexp#0904-replace-a-certain-word">04 Replace a Certain Word</a>***
+
+***<a title="05 Extract User Data" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/09%20Strings%20And%20Regexp#0905-extract-user-data">05 Extract User Data</a>***
+
+---
+---
+
+## 10. Exercise: Strings and Regular Expressions
+
+### Tasks Requirements And Solutions
+<br/>
+
+***<a title="01 Binary Decoding" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/10%20Strings%20And%20Regexp#1001-binary-decoding">01 Binary Decoding</a>***
+
+***<a title="02 Expedition problems" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/10%20Strings%20And%20Regexp#1002-expedition-problems">02 Expedition problems</a>***
+
+***<a title="03 James Bond" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/10%20Strings%20And%20Regexp#1003-james-bond">03 James Bond</a>***
+
+***<a title="04 Airport Check" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/10%20Strings%20And%20Regexp#1004-airport-check">04 Airport Check</a>***
+
