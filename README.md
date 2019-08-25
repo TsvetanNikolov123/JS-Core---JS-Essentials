@@ -110,3 +110,31 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 
 ---
 ---
+
+## 07 Lab: Arrays and Matrices
+
+### Tasks Requirements And Solutions
+<br/>
+
+***<a title="01 Sum First Last" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0701-sum-first-last">01 Sum First Last</a>***
+
+***<a title="02 Even Position Element" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0702-even-position-element">02 Even Position Element</a>***
+
+***<a title="03 Negative / Positive Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0703-negative--positive-numbers">03 Negative / Positive Numbers</a>***
+
+***<a title="04 First and Last K Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0704-first-and-last-k-numbers">04 First and Last K Numbers</a>***
+
+***<a title="05 Last K Numbers Sequence" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0705-last-k-numbers-sequence">05 Last K Numbers Sequence</a>***
+
+***<a title="06 Process Odd Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0706-process-odd-numbers">06 Process Odd Numbers</a>***
+
+***<a title="07 Smallest Two Numbers" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0707-smallest-two-numbers">07 Smallest Two Numbers</a>***
+
+***<a title="08 Biggest Element" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0708-biggest-element">08 Biggest Element</a>***
+
+***<a title="09 Diagonal Sums" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0709-diagonal-sums">09 Diagonal Sums</a>***
+
+***<a title="10 Equal Neighbors" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0710-equal-neighbors">10 Equal Neighbors</a>***
+
+---
+---
