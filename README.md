@@ -111,7 +111,7 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 ---
 ---
 
-## 07 Lab: Arrays and Matrices
+## 07. Lab: Arrays and Matrices
 
 ### Tasks Requirements And Solutions
 <br/>
@@ -135,6 +135,34 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 ***<a title="09 Diagonal Sums" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0709-diagonal-sums">09 Diagonal Sums</a>***
 
 ***<a title="10 Equal Neighbors" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/07%20Arrays%20And%20Matrices#0710-equal-neighbors">10 Equal Neighbors</a>***
+
+---
+---
+
+## 08. Exercise: Arrays and Matrices
+
+### Tasks Requirements And Solutions
+<br/>
+
+***<a title="01 Print an Array with a given Delimiter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0801-print-an-array-with-a-given-delimiter">01 Print an Array with a given Delimiter</a>***
+
+***<a title="02 Print every N-th Element from an Array" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0802-print-every-n-th-element-from-an-array">02 Print every N-th Element from an Array</a>***
+
+***<a title="03 Add and Remove Elements from an Array" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0803-add-and-remove-elements-from-an-array">03 Add and Remove Elements from an Array</a>***
+
+***<a title="04 Rotate Array" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0804-rotate-array">04 Rotate Array</a>***
+
+***<a title="05 Extract a Non-decreasing Subsequence from an Array" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0805-extract-a-non-decreasing-subsequence-from-an-array">05 Extract a Non-decreasing Subsequence from an Array</a>***
+
+***<a title="06 Sort an Array by 2 Criteria" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0806-sort-an-array-by-2-criteria">06 Sort an Array by 2 Criteria</a>***
+
+***<a title="07 Magic Matrices" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0807-magic-matrices">07 Magic Matrices</a>***
+
+***<a title="08 Spiral Matrix" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0808-spiral-matrix">08 \*Spiral Matrix</a>***
+
+***<a title="09 **Diagonal Attack" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0809-diagonal-attack">09 \*\*Diagonal Attack</a>***
+
+***<a title="10 *Orbit" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/08%20Exercise%20Arrays%20And%20Matrices#0810-orbit">10 \*Orbit</a>***
 
 ---
 ---
