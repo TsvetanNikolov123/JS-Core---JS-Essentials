@@ -10,7 +10,7 @@ SoftUni judge system at
 
 ---
 
-##09.01 Pascal or Camel Case
+## 09.01 Pascal or Camel Case
 
 Write a function that takes **two string parameters** as an input.
 
