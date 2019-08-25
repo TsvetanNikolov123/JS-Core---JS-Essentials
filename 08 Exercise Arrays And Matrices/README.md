@@ -243,7 +243,7 @@ not.
 
 <br/>
 
-#### Solution: <a title="" href=""></a>
+#### Solution: <a title="07 Magic Matrices" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/08%20Exercise%20Arrays%20And%20Matrices/07.MagicMatrices.js">07 Magic Matrices</a>
 
 ---
 
