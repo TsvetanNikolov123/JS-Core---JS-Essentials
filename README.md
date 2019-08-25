@@ -82,3 +82,31 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 
 ---
 ---
+
+## 06. Exercise: Objects and DOM
+
+### Tasks Requirements And Solutions
+<br/>
+
+***<a title="01 Cards" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0601-cards">01 Cards</a>***
+
+***<a title="02 Chat Room" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0602-chat-room">02 Chat Room</a>***
+
+***<a title="03 Number Converter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0603-number-converter">03 Number Converter</a>***
+
+***<a title="04 JavaScript Quizz" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0604-javascript-quizz">04 JavaScript Quizz</a>***
+
+***<a title="05 Table - Search Engine" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0605-table---search-engine">05 Table - Search Engine</a>***
+
+***<a title="06 Shopping Cart" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0606-shopping-cart">06 Shopping Cart</a>***
+
+***<a title="07 Furniture" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0607-furniture">07 Furniture</a>***
+
+***<a title="08 Numpad Calculator" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0608-numpad-calculator">08 Numpad Calculator</a>***
+
+***<a title="09 Order the names" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0609-order-the-names">09 Order the names</a>***
+
+***<a title="10 Sudomu" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/06%20Exercise%20Objects%20And%20DOM#0610--sudomu">10 \*Sudomu</a>***
+
+---
+---
