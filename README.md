@@ -198,3 +198,35 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 
 ***<a title="04 Airport Check" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/10%20Strings%20And%20Regexp#1004-airport-check">04 Airport Check</a>***
 
+---
+---
+
+## 11. Exam Preparation I
+
+### Tasks Requirements And Solutions
+<br/>
+
+***<a title="01 Coffee Machine" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/11%20Exam%20Preparation#1101-coffee-machine">01 Coffee Machine</a>***
+
+***<a title="02 ATM Machine" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/11%20Exam%20Preparation#1102-atm-machine">02 ATM Machine</a>***
+
+***<a title="03 Warehouse Machine" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/11%20Exam%20Preparation#1103-warehouse-machine">03 Warehouse Machine</a>***
+
+---
+---
+
+## 12. Exam Preparation II
+
+### Tasks Requirements And Solutions
+<br/>
+
+***<a title="01 Courses Prices" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/12%20Exam%20Preparation#1201-courses-prices">01 Courses Prices</a>***
+
+***<a title="02. Plasma Giants" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/12%20Exam%20Preparation#1202-plasma-giants">02. Plasma Giants</a>***
+
+***<a title="03 Face Control" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/12%20Exam%20Preparation#1203-face-control">03 Face Control</a>***
+
+---
+---
+
+
