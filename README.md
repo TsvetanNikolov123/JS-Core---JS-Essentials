@@ -256,5 +256,17 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 ---
 ---
 
+## 14. EXAM
+
+### Tasks Requirements And Solutions
+
+***<a title="01 Caffeine Study" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/14%20EXAM#1401-caffeine-study">01 Caffeine Study</a>***
+
+***<a title="02 Train Station" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/14%20EXAM#1402-train-station">02 Train Station</a>***
+
+***<a title="03 Spaceship Crafting" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/14%20EXAM#1403-spaceship-crafting">03 Spaceship Crafting</a>***
+
+---
+---
 
 
