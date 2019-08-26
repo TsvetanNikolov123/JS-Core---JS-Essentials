@@ -229,4 +229,32 @@ JS Core:  JS Essentials - May2019 @ SoftUni
 ---
 ---
 
+## 13. Old Exams
+
+### Tasks Requirements And Solutions
+
+##### JS Fundamentals Exam - 10 February 2019
+
+***<a title="01 HTML Grade" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/13%20Old%20Exams/JS%20Fundamentals%20Exam%20-%2010%20February%202019#1301-html-grade">01 HTML Grade</a>***
+
+***<a title="02 Table Filter" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/13%20Old%20Exams/JS%20Fundamentals%20Exam%20-%2010%20February%202019#1302-table-filter">02 Table Filter</a>***
+
+***<a title="04 E-Venetka.bg" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/13%20Old%20Exams/JS%20Fundamentals%20Exam%20-%2010%20February%202019#1304-e-venetkabg">04 E-Venetka.bg</a>***
+
+<br/>
+
+##### JS Fundamentals Retake - 16 April 2019
+
+***<a title="01 VAT Calculator" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019#1301-vat-calculator">01 VAT Calculator</a>***
+
+***<a title="02 Morse Translator" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019#1302-morse-translator">02 Morse Translator</a>***
+
+***<a title="03 Matrix Summer" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019#1303-matrix-summer">03 Matrix Summer</a>***
+
+***<a title="04 Auto Service" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/tree/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019#1304-auto-service">04 Auto Service</a>***
+
+---
+---
+
+
 
