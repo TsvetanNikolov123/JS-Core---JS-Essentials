@@ -75,7 +75,7 @@ Examples
 
 <br/>
 
-#### Solution: <a title="02 Morse Translator" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019/02.MorseTranslator.js">02 Morse Translator</a>
+### Solution: <a title="02 Morse Translator" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019/02.MorseTranslator.js">02 Morse Translator</a>
 
 ---
 
@@ -112,7 +112,7 @@ Both matrices will always be with the same size.
 
 <br/>
 
-#### Solution: <a title="03 Matrix Summer" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019/03.MatrixSummer.js">03 Matrix Summer</a>
+### Solution: <a title="03 Matrix Summer" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019/03.MatrixSummer.js">03 Matrix Summer</a>
 
 ---
 
@@ -194,6 +194,6 @@ alphabetically** by **car model** in the following format:
 
 <br/>
 
-#### Solution: <a title="04 Auto Service" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019/04.AutoService.js">04 Auto Service</a>
+### Solution: <a title="04 Auto Service" href="https://github.com/TsvetanNikolov123/JS-Core---JS-Essentials/blob/master/13%20Old%20Exams/JS%20Fundamentals%20Retake%20-%2016%20April%202019/04.AutoService.js">04 Auto Service</a>
 
 ---
